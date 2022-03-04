@@ -58,7 +58,8 @@ int search(T x) {
 	} 
  
 };
-
+cout<<
+cin>>  
 int main() {
   Alist<int> l(10);
   cout<<l.isEmpty();
