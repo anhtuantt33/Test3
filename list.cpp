@@ -22,6 +22,7 @@ void add(T i, T t){
 		list[i] = t;
 		size++;
   }; 
+  ccccccccccccccccccccccccccccccccccccccccccccc
 void remove(T i) 
 	{
 		if (isEmpty()==true) throw "Danh sach rong, khong the xoa";
@@ -34,6 +35,9 @@ void print(){
 			cout << list[i] << " ";
 		}
 	}; 
+	
+	void c++;
+	endl;
 void clear(){
   size = 0; 
   }; 
@@ -58,7 +62,8 @@ int search(T x) {
 	} 
  
 };
-
+cout<<
+cin>>  
 int main() {
   Alist<int> l(10);
   cout<<l.isEmpty();
