@@ -34,6 +34,9 @@ void print(){
 			cout << list[i] << " ";
 		}
 	}; 
+	
+	void c++;
+	endl;
 void clear(){
   size = 0; 
   }; 
