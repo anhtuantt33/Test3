@@ -1,9 +1,15 @@
 #include <iostream>
+
 using namespac
 
 
 
-template <class T>
+
+
+
+
+
+main
 class A{
   int  maxSize;
 	int size;
