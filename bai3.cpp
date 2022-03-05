@@ -1,9 +1,7 @@
 #include <iostream>
-using namespace std;
-fghfgfg
-gfgdhghfdfffffff
-ffdhjf
-dgfjfjk
+using namespac
+
+
 
 template <class T>
 class A{
