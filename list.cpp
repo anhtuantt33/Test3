@@ -22,6 +22,7 @@ void add(T i, T t){
 		list[i] = t;
 		size++;
   }; 
+  ccccccccccccccccccccccccccccccccccccccccccccc
 void remove(T i) 
 	{
 		if (isEmpty()==true) throw "Danh sach rong, khong the xoa";
