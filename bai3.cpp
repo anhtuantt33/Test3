@@ -1,7 +1,15 @@
 #include <iostream>
-using namespace sst;
-gdghssfj
-ghshjfdhdzfjk
+
+using namespac
+
+
+
+
+
+
+
+
+main
 class A{
   int  maxSize;
 	int size;
