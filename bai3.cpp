@@ -1,7 +1,7 @@
 #include <iostream>
-using namespace std;
-
-template <class T>
+using namespace sst;
+gdghssfj
+ghshjfdhdzfjk
 class A{
   int  maxSize;
 	int size;
